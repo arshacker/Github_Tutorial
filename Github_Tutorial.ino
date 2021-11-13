@@ -12,6 +12,7 @@
 */
 
 void setup()
+ //ars changed this file
 {
   Serial.begin(9600);
   Serial.println("Trimpot read example");
